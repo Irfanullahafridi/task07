@@ -1,6 +1,6 @@
 
 
-function showNavigatio(){
+function showNavigation(){
     var navitems = document.getElementById("navagationItemsid");
     navitems.style.display = 'block';
 

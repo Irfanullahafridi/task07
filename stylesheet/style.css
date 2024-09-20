@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 #hamburger{
-    width: 25px;
+    width: 26px;
     display: none;
 }
 #cancel{
-    width: 25px;
+    width: 26px;
     background-color: white;
     display: none;
 }
