@@ -25,7 +25,7 @@
     background-color: rgba(37, 31, 31, 0.925);
 }
 .navigationMenu h2 span{
-    color: rgb(245, 6, 6)
+    color: green
 }
 .navagationItems{
     display: flex;
@@ -139,12 +139,12 @@
     }
 }
 .homeSection h1 span{
-    color: red;
+    color: rgb(0, 255, 34);
     margin: 17px 0;
 }
 
 .homeSection button{
-    border: 1px solid red;
+    border: 1px solid rgb(0, 255, 13);
     padding: 12px 28px;
     margin: 27px 0;
     color: white;
