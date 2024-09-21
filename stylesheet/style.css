@@ -476,7 +476,7 @@ margin-right: auto; */
 
  /* FOOTER SECTION */
  .footer{
-    background:linear-gradient(45deg, rgba(30, 30, 31, 0.872),rgba(28, 1, 25, 0.854));
+    background:linear-gradient(45deg, rgba(113, 113, 121, 0.872),rgba(28, 1, 25, 0.854));
  
     display: flex;
     flex-direction: column;
