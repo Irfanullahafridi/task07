@@ -25,7 +25,7 @@
     background-color: rgba(37, 31, 31, 0.925);
 }
 .navigationMenu h2 span{
-    color: red;
+    color: rgb(245, 6, 6)
 }
 .navagationItems{
     display: flex;
